@@ -12,19 +12,19 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
-global.botname = "αrch md"
+global.owner = "254798611895"
+global.botname = "collie md"
 global.ownername = "colliericch" //colliericch 
 global.simbol = "♘"
 global.typeMenu = 'v2' // choose between 1,2,3
 global.prefix = '.' // your desired prefix symbol only
 global.channel = ''
-global.timezone = 'Africa/Lagos'
+global.timezone = 'Africa/Nairobi'
 global.author = 'Ednut'
-global.packname = 'Arch Md ²⁵'
+global.packname = 'Collie Md ²⁵'
 
 global.tempatDB = 'database.json' // dont change might cause big errors 
-global.pairing_code = false // if deploying on panel set true if on any other platform leave it false
+global.pairing_code = true // if deploying on panel set true if on any other platform leave it false
 global.startup = true
 
 // Settings Image Url
