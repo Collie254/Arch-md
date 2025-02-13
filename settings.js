@@ -14,7 +14,7 @@ const { version } = require("./package.json")
 //======= Change settings =======\\
 global.owner = "2347036214381"
 global.botname = "αrch md"
-global.ownername = "" //set bot owner name here 
+global.ownername = "colliericch" //colliericch 
 global.simbol = "♘"
 global.typeMenu = 'v2' // choose between 1,2,3
 global.prefix = '.' // your desired prefix symbol only
